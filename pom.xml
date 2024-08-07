@@ -51,7 +51,7 @@
         <resource>
             <directory>src/main/webapp</directory>
             <includes>
-                <include>**/*.jsp</include>
+                <include>**/*.jsp</include> 
             </includes>
         </resource>
     </resources>
